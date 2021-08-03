@@ -9,7 +9,7 @@ Thanks for coming to my Github page. Hope you find some useful here :)
 
 I am currently in a Fortune 100 company, in which, for more than 2 years, I develop projects and solutions for the business. 
 
-Graduated in Computer Science with the undergraduate thesis ["Development of a classifying tool to detect false transactions in credit card operations using Machine Learning"](https://github.com/Evilmaax/Automated_Fraud_Detection_Classifier), always guided my choices on the course aiming to work as a data scientist or machine learning engineer. The next step is to pursue a master's degree in DS or statistics.
+Graduated in Computer Science with the undergraduate thesis ["Development of a classifying tool to detect false transactions in credit card operations using Machine Learning"](https://github.com/Evilmaax/Automated_Fraud_Detection_Classifier), I always guided my choices during the course aiming to work as a data scientist or machine learning engineer. The next step is to pursue a master's degree in DS or statistics.
 
 Some stuffs's about me:
 
