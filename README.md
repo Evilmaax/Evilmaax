@@ -1,8 +1,10 @@
 ### Hi there, I'm Maximiliano Meyer 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maximiliano-meyer/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/evilmaax/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Evilmaax48)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximiliano-meyer/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/evilmaax/)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Evilmaax48)
+[![whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551999589719)
+[![So Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://pt.stackoverflow.com/users/22427/evilmaax?tab=profile)
 
 Thanks for coming to my Github page. Hope you find some useful here :)
 <img align="right" alt="GIF" src="https://www.maximizasoftware.com.br/wp-content/uploads/2018/11/2gsjgnRrABVGgMSFLH5uUKMhkSRNjE3QaYaZdhxY5EeTYJBKCtX39K2wcBjL1iE6vy4Ven2uq361sMShYsDH9nzYVe8EJ3iTNyAhJCNSkAamZBpQC2.gif" width="202" height="214" />
