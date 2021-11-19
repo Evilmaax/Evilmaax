@@ -13,8 +13,8 @@ Graduated in Computer Science with the undergraduate thesis ["Development of a c
 
 Some stuffs's about me:
 
-
-* 🐍 Currently Python developer and machine learning engineer
+* 💾 Data engineer at Capgemini 
+* 🐍 Also Python and VBA freelance developer and machine learning enthusiast
 * 🤖 Studying Machine Learning at Stanford's Andrew NG course
 * 📩 How you can contact me: maximilianomeyer48@gmail.com
 * 📄 [Resume](https://drive.google.com/file/d/1WJIng0XXY_t2T_gUfjKPzd3ORBHTBVC6/view?usp=sharing)
