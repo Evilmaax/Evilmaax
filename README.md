@@ -17,7 +17,7 @@ Some stuffs's about me:
 * 🐍 Also Python and VBA freelance developer
 * 🤖 Studying Machine Learning at Stanford's Andrew NG course
 * 📩 How you can contact me: maximilianomeyer48@gmail.com
-* 📄 [Resume](https://drive.google.com/file/d/1WJIng0XXY_t2T_gUfjKPzd3ORBHTBVC6/view?usp=sharing)
+* 📄 [Resume](https://drive.google.com/file/d/1zsP4epN6UBsrQytT9_uL1CewCi1zy87X/view?usp=sharing)
 
 <a href="https://stackexchange.com/users/5893065/maximiliano-meyer"><img src="https://stackexchange.com/users/flair/5893065.png" width="208" height="58" alt="profile for Maximiliano Meyer on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Maximiliano Meyer on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
