@@ -1,5 +1,7 @@
 ### Hi there, I'm Maximiliano Meyer 👋
 
+<img src="https://komarev.com/ghpvc/?username=evilmaax" alt="evilmaax" />  
+
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximiliano-meyer/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/evilmaax/)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Evilmaax48)
@@ -13,7 +15,7 @@ Graduated in Computer Science with the undergraduate thesis ["Development of a c
 
 Some stuffs's about me:
 
-* 💾 Machine Learning Engineer at Capgemini 
+* 💾 Machine Learning Engineer at [Hvar Consulting](https://hvarconsulting.com.br/) 
 * 🐍 Also Python and VBA freelance developer
 * 🤖 Studying Machine Learning at Stanford's Andrew NG course
 * 📩 How you can contact me: maximilianomeyer48@gmail.com
