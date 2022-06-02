@@ -8,6 +8,8 @@
 [![whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551999589719)
 [![So Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://pt.stackoverflow.com/users/22427/evilmaax?tab=profile)
 
+---
+
 Thanks for reaching me out here at my Github page. Hope you find some useful here :)
 <img align="right" alt="GIF" src="https://www.maximizasoftware.com.br/wp-content/uploads/2018/11/2gsjgnRrABVGgMSFLH5uUKMhkSRNjE3QaYaZdhxY5EeTYJBKCtX39K2wcBjL1iE6vy4Ven2uq361sMShYsDH9nzYVe8EJ3iTNyAhJCNSkAamZBpQC2.gif" width="202" height="214" />
 
