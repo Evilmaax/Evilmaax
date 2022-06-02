@@ -1,6 +1,6 @@
 ### Hi there, I'm Maximiliano Meyer 👋
 
-<img src="https://komarev.com/ghpvc/?username=evilmaax" alt="evilmaax" />  
+<img src="https://komarev.com/ghpvc/?username=evilmaax"/>  
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximiliano-meyer/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/evilmaax/)
