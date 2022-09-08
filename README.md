@@ -10,7 +10,7 @@
 
 ---
 
-Thanks for reaching me out here at my Github page. Hope you find some useful here :)
+Thanks for reaching me out here at my Github page. Hope you find something useful here :)
 <img align="right" alt="GIF" src="https://www.maximizasoftware.com.br/wp-content/uploads/2018/11/2gsjgnRrABVGgMSFLH5uUKMhkSRNjE3QaYaZdhxY5EeTYJBKCtX39K2wcBjL1iE6vy4Ven2uq361sMShYsDH9nzYVe8EJ3iTNyAhJCNSkAamZBpQC2.gif" width="202" height="214" />
 
 Graduated in Computer Science with the undergraduate thesis ["Development of a classifying tool to detect false transactions in credit card operations using Machine Learning"](https://github.com/Evilmaax/Automated_Fraud_Detection_Classifier), I always guided my choices during the course aiming to work with data and machine learning. The next step is to pursue a master's degree in DS or statistics.
