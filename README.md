@@ -9,7 +9,7 @@ Graduated in Computer Science with the undergraduate thesis ["Development of a c
 
 Some stuffs's about me:
 
-* 💾 Machine Learning Engineer at [Millennium BCP]([https://hvarconsulting.com.br/](https://ind.millenniumbcp.pt/pt/particulares/Pages/Welcome.aspx)) 
+* 💾 Machine Learning Engineer at [Millennium BCP](https://ind.millenniumbcp.pt/pt/particulares/Pages/Welcome.aspx)
 * 🐍 Also Python and VBA freelance developer
 * 🤖 [Stanford's Machine Learning course by Andrew NG course](https://www.coursera.org/account/accomplishments/certificate/W3F4C2HCN8NX)
 * 📊 [IBM's Data Engineer Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/68DU5GE695CJ)
