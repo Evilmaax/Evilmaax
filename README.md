@@ -29,7 +29,7 @@ Some stuffs's about me:
 <a href="https://pt.stackoverflow.com/users/22427" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22427" height="30" width="40" /></a>
 <a href="https://kaggle.com/evilmaax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="evilmaax" height="30" width="40" /></a>
 <a href="https://instagram.com/evilmaax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="evilmaax" height="30" width="40" /></a>
-<a href="https://wa.me/5551999589719" target="blank"><img align="center" src="https://seeklogo.com/images/W/whatsapp-icon-logo-6E793ACECD-seeklogo.com.png" alt="Whatsapp" height="35" width="35" /></a>
+<a href="https://wa.me/355939159542" target="blank"><img align="center" src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png" alt="Whatsapp" height="35" width="35" /></a>
 <a href="https://t.me/Evilmaax48" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="Telegram" height="30" width="30" /></a>
 </p>
 
