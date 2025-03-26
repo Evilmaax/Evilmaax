@@ -5,7 +5,11 @@
 Thanks for reaching me out here at my Github page. Hope you find something useful here :)
 <img align="right" alt="GIF" src="https://www.maximizasoftware.com.br/wp-content/uploads/2018/11/2gsjgnRrABVGgMSFLH5uUKMhkSRNjE3QaYaZdhxY5EeTYJBKCtX39K2wcBjL1iE6vy4Ven2uq361sMShYsDH9nzYVe8EJ3iTNyAhJCNSkAamZBpQC2.gif" width="202" height="214" />
 
-Graduated in Computer Science with the undergraduate thesis ["Development of a classifying tool to detect false transactions in credit card operations using Machine Learning"](https://github.com/Evilmaax/Automated_Fraud_Detection_Classifier), I always guided my choices during the course aiming to work with data and machine learning. The next step is to pursue a master's degree in DS or statistics.
+I’m a Machine Learning/MLOps engineer with 6+ YOE, with solid career in the banking sector currently enrolled in Data Science master studies at Universidade do Porto, expecting to finish it in 2027.
+
+Currently, I’m based in Portugal working as a machine engineer at Millennium BCP, the leading private bank in the country, where we’re pioneering a more trustworthy, fast, responsive, and scalable banking environment. Here, I assist my team in identifying, and implementing more secure and reliable services, utilizing tools such as Python, C#, Kubernetes, Kafka, Docker, Databricks and Spark, besides routines related to model deployment, serving and monitoring. 
+
+In my free time, I’m always developing some project related to NBA and machine learning, sometimes a chatbot to deepen on NLP and Langchain studies, sometimes a predictor to focus on deep learning. Also, In academic field I also carry a Stanford's Machine Learning program by Andrew Ng and an IBM's Data Engineer professional certificate. 
 
 Some stuffs's about me:
 
