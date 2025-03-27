@@ -18,7 +18,7 @@ Some stuffs's about me:
 * 🤖 [Stanford's Machine Learning course by Andrew NG course](https://www.coursera.org/account/accomplishments/certificate/W3F4C2HCN8NX)
 * 📊 [IBM's Data Engineer Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/68DU5GE695CJ)
 * 📩 How you can contact me: maximilianomeyer48@gmail.com
-* 📄 [Resume](https://drive.google.com/file/d/1JcCC4x0RNek_fpRaGO_wIPAS_luxhPj6/view?usp=share_link)
+* 📄 [Resume](https://drive.google.com/file/d/1qLRVZ-XXja-WQxWpgkfbrLya9QcW2J-Q/view?usp=share_link)
 
 <a href="https://stackexchange.com/users/5893065/maximiliano-meyer"><img src="https://stackexchange.com/users/flair/5893065.png" width="208" height="58" alt="profile for Maximiliano Meyer on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Maximiliano Meyer on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
