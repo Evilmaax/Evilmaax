@@ -25,7 +25,7 @@ Some stuffs's about me:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/maximiliano-meyer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maximiliano-meyer" height="30" width="40" /></a>
-<a href="https://wa.me/355939159542" target="blank"><img align="center" src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png" alt="Whatsapp" height="35" width="35" /></a>
+<a href="https://wa.me/351939159542" target="blank"><img align="center" src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png" alt="Whatsapp" height="35" width="35" /></a>
 </p>
 
 📈 **My GitHub Stats:**
